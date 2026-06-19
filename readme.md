@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=header&text=DOZA%20Server&fontSize=70&fontColor=FFFFFF&animation=fadeIn" />
   <br>
   <h2>🌙 DQZA</h2>
-  <p>Welcome to the DOZA Server!<br>A premium gaming and hangout community.</p>
+  <p>Welcome to the DOZA Server!<br>Enjoy your stay!</p>
   <br>
   <a href="https://discord.gg/cpmeZAACvg" target="_blank">
     <img src="https://img.shields.io/badge/Join_DOZA-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join DOZA" />
