@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=header&text=DOZA%20Server%20Rules&fontSize=70&fontColor=FFFFFF&animation=fadeIn" />
 </div>
@@ -12,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Safe;Respectful;Secure;Verified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Verified;Safe;Community;DOZA" alt="Typing SVG" />
 </p>
 
 <details align="center">
@@ -113,4 +112,3 @@ We utilize a "Three Strike" system for escalating punishments. If a user continu
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
 </div>
-```
