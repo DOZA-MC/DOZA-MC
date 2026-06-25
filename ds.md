@@ -156,6 +156,7 @@ You will receive a maximum of <b>3 warnings</b> before being automatically banne
 
   ### 2: 🔨 No Client Modification or Using Exploits
   This includes finding glitches and abusing them, doing stuff that would give you a higher advantage compared to others (Also includes purposely glitching to somewhere).
+  This also includes any texture packs that give players a higher and cheesey advantages. Players can ask either of the owners if they are allowed to use certian packs.
 
   <br>
 
