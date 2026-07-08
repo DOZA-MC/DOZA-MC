@@ -70,7 +70,7 @@ You will receive a maximum of <b>3 warnings</b> before being automatically banne
   ### 4. Compliance, Privacy, and Communication
   ▸ T3 **Platform Compliance:** All members must adhere to [Discord's Terms of Service](https://discord.com/terms) and [Privacy Guidelines](https://discord.com/privacy). Any activity that violates Discord's policies is prohibited here.<br>
   ▸ **Language:** Please speak English in public channels to ensure clear communication and prevent misunderstandings.<br>
-  ▸ **Standards:** Maintain a mature standard of communication; avoid excessive "brainrot" slang or inappropriate roleplay terms.
+  ▸ T2 **Standards:** Maintain a mature standard of communication; avoid excessive "brainrot" slang or inappropriate roleplay terms.
 
   <br>
 
