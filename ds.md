@@ -19,9 +19,6 @@ By submitting an application in the Discord server before or after the rules wer
 ### 📢 Support Notice
 Need help appealing, reporting, or asking a question? Please direct all inquiries to our dedicated <b>support channel</b>.
 
-### 🚫 Warning System (Discord Only)
-You will receive a maximum of <b>3 warnings</b> before being automatically banned from the Discord server. Please ensure to follow our rules and guidelines.
-
 ### 👑 Leadership
 <img src="https://img.shields.io/badge/Owner_DOZA-FFD700?style=for-the-badge&logo=discord&logoColor=000000" /><br>
 <code>786081192926773248</code> ｜ <b>xdqza</b>
@@ -137,6 +134,9 @@ You will receive a maximum of <b>3 warnings</b> before being automatically banne
 
   **Tier 4: Critical Infractions** *(Illegal activities, doxxing, severe hate speech, NSFW content)*<br>
   Punishment: `Permanent Ban`
+
+  ### 🚫 Warning System (Discord Only)
+  You will receive a maximum of <b>5 warnings</b> before being automatically banned from the Discord server. Please ensure to follow our rules and guidelines.
 
   <br>
 
