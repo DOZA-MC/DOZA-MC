@@ -43,73 +43,82 @@ You will receive a maximum of <b>3 warnings</b> before being automatically banne
   <summary><b>📜 Discord Server Rules & Guidelines</b></summary>
   <br>
 
+  These rules have been modified on 7.8.26 | 5:30PM EST | By Astral
+
+  Note: For each rule/subrules, I put the Tiers have what type of punishment is received if that rule/subrule is broken.
+  
+  <br>
+
   ### 1. Mandatory Verification
   ▸ **Screening Process:** All members must complete a mandatory screening process via our verification system to gain access to the rest of the server.<br>
   ▸ **No Alternatives:** There are absolutely no alternative methods for bypassing this step.<br>
   ▸ **Security:** This measure is strictly enforced to maintain high security standards and ensure the server remains a safe space for everyone.
+  ▸ **Failure to compliy:** Will result in being tempbanned for 1 month
 
   <br>
 
   ### 2. Respect Everyone (Toxicity & Harassment)
-  Treat others with kindness and respect. Racism, sexism, homophobia, harassment, hate speech, and general toxicity are strictly prohibited.
+  T2 Treat others with kindness and respect. Racism, sexism, homophobia, harassment, hate speech, and general toxicity are strictly prohibited.
 
   <br>
 
   ### 3. No NSFW or Inappropriate Content
-  This server is for general audiences. NSFW, explicit, gore, or sexually suggestive content (including text and images) is banned.
+  T4 This server is for general audiences. NSFW, explicit, gore, or sexually suggestive content (including text and images) is banned.
 
   <br>
 
   ### 4. Compliance, Privacy, and Communication
-  ▸ **Platform Compliance:** All members must adhere to [Discord's Terms of Service](https://discord.com/terms) and [Privacy Guidelines](https://discord.com/privacy). Any activity that violates Discord's policies is prohibited here.<br>
+  ▸ T3 **Platform Compliance:** All members must adhere to [Discord's Terms of Service](https://discord.com/terms) and [Privacy Guidelines](https://discord.com/privacy). Any activity that violates Discord's policies is prohibited here.<br>
   ▸ **Language:** Please speak English in public channels to ensure clear communication and prevent misunderstandings.<br>
   ▸ **Standards:** Maintain a mature standard of communication; avoid excessive "brainrot" slang or inappropriate roleplay terms.
 
   <br>
 
   ### 5. Privacy and Safety
-  ▸ **Do not** share personal information (yours or others), such as addresses, passwords, or real names.<br>
-  ▸ **Do not** share private messages or DMs without explicit consent from all parties involved.<br>
-  ▸ **Do not** engage in illegal activities or share pirated content.
+  ▸ T3 **Do not** share personal information (yours or others), such as addresses, passwords, or real names.<br>
+  ▸ T1 **Do not** share private messages or DMs without explicit consent from all parties involved.<br>
+  ▸ T4 **Do not** engage in illegal activities or share pirated content.
 
   <br>
 
   ### 6. Spam and Advertising
-  ▸ Do not spam messages, links, emojis, or mentions (including mass `@here`/`@everyone` pings).<br>
-  ▸ Do not advertise external servers, products, or services without prior permission from the Administration Team.
+  ▸ T1 Do not spam messages, links, emojis, or mentions (including mass `@here`/`@everyone` pings).<br>
+  ▸ T2 Do not advertise external servers, products, or services without prior permission from the Administration Team.
 
   <br>
 
   ### 7. Server Structure & Staff
-  ▸ **Channels:** Use channels for their intended purpose (e.g., keep discussions relevant to the channel topic).<br>
+  ▸ T1 **Channels:** Use channels for their intended purpose (e.g., keep discussions relevant to the channel topic).<br>
+  ▸ T2 **Special Channels:** Do not misuse the special channels, Punishment is a warn.
   ▸ **Staff Instructions:** Follow the instructions of the staff team. They are responsible for maintaining order.<br>
-  ▸ **Bots:** Do not use unauthorized bots, user-bots, or automation tools.
+  ▸ T4 **Bots:** Do not use unauthorized bots, user-bots, or automation tools.
 
   <br>
 
   ### 8. Role Requests
-  Do not ask for ranks, admin positions, or special roles. Roles are assigned based on merit, effort, and necessity, not upon request.
+  T2 Do not ask for ranks, admin positions, or special roles. Roles are assigned based on merit, effort, and necessity, not upon request.
 
   <br>
 
   ### 9. Artist Role & AI Art Policy
-  ▸ **Obtaining the Role:** To obtain the **Artist** role, you must send **original art** in the `#media` channel.<br>
-  ▸ **Patience:** Do not ask any staff member about the status of your application. Staff will review submissions in their own time.<br>
+  ▸ T1 **Obtaining the Role:** To obtain the **Artist** role, you must send **original art** in the `#media` channel.<br>
+  ▸ T1 **Patience:** Do not ask any staff member about the status of your application. Staff will review submissions in their own time.<br>
   ▸ **Inquiries:** If you have posted original art and have not received the role after **3 days**, you may politely ask a staff member about it.<br>
-  ▸ **AI Art Policy:** Posting AI-generated content is prohibited, as it is not original work. Doing so will result in a **Warning**. If you hold the Artist role and are found posting AI-generated content, your role will be **revoked immediately**, and you will be **permanently ineligible** to obtain the role again.
+  ▸ T2 **AI Art Policy:** Posting AI-generated content is prohibited, as it is not original work. Doing so will result in a **Warning**. If you hold the Artist role and are found posting AI-generated content, your role will be **revoked immediately**, and you will be **permanently ineligible** to obtain the role again.
 
   <br>
 
   ### 10. Account Conduct
-  ▸ **Identity:** Your username and avatar must be appropriate for a general audience.<br>
-  ▸ **Impersonation:** Impersonation of staff, other members, or public figures is banned.<br>
-  ▸ **Loopholes:** Do not attempt to bypass rules using technicalities or loopholes. The spirit of the rules is as important as their literal interpretation.
+  ▸ T2 **Identity:** Your username and avatar must be appropriate for a general audience.<br>
+  ▸ T4 **Impersonation:** Impersonation of staff, other members, or public figures is banned.<br>
+  ▸ T2 **Loopholes:** Do not attempt to bypass rules using technicalities or loopholes. The spirit of the rules is as important as their literal interpretation.
 
   <br>
 
   ### 11. Moderation & Appeals
   ▸ If you have a question regarding a moderation action (mute, ban, etc.) or an application, **open a ticket** in the designated channel.<br>
   ▸ Do not discuss bans, mutes, or application statuses in public chat or DM staff members about them.
+  
 
   <br>
 
